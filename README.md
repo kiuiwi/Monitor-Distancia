@@ -4,11 +4,10 @@ Este proyecto es una interfaz visual desarrollada con Jetpack Compose que repres
 No incluye la lógica funcional de conexión, solo una simulación visual (mockup) del diseño final de la app.
 
 Características principales:
--Interfaz moderna con Jetpack Compose.
+-Interfaz moderna con Jetpack Compose
 -Boton de Configuración
 -Switch de activacion del LED
--Lectura de distancia simulada (--- cm).
--Indicador de estado del dispositivo (“Desconectado”).
+-Lectura de distancia simulada (--- cm)
 
 Tecnologías utilizadas:
 -Kotlin
